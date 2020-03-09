@@ -1,7 +1,7 @@
 ---
 title: Cycle de vie de la chenille processionnaire du pin
 date: 2020-03-09T15:11:37.575Z
-description: 'Le cycle de la processionnaire se compose de trois phases successives :'
+description: Le cycle de la processionnaire se compose de trois phases successives
 ---
 Le cycle de la processionnaire se compose de trois phases successives :
 
