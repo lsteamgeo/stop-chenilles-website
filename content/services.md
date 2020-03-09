@@ -9,20 +9,27 @@ menu: main
 weight : 2
 ---
 
-<h3>Nos services</h3>
-<p>Nous sommes équipés pour traiter des nids à toutes les hauteurs.</p>
-<p>Nous pouvons intervenir au sol, sous toiture, dans les cheminées, dans les arbres...</p>
-<p>Les interventions à taille humaine sont effectuées à l’aide d’un pulvérisateur. Au-delà, l'utilisation de perches est utilisée.</p>
-<p>En cas de nid de frelons à des hauteurs importantes, nous sommes équipés d'un drone pour atteindre le nid à traiter.</p>
-<p>Néanmoins, certaines interventions peuvent nécessité l’utilisation de matériel spécifique (grue, nacelle, ...). Ces éléments extérieurs devront être fournis par le client.</p>
-<p>Notre objectif principal est le traitement massif des nids de frelons asiatiques afin de ralentir la propagation de cette espèce invasive et dangereuse pour nos insectes pollinisateurs comme l’abeille.</p>
-		
+<h3>Techniques de luttes</h3>
+<p>Plusieurs méthodes de luttes contre la chenille processionnaire du pin sont disponibles, et ce, tout le long de l’année selon leur phase d’existence (papillon, larves, …).</p>
+<ul>
+<li>Par piégeage (piège à phéromone) de juin à fin octobre pour notre région</li>
+<li>Par lutte microbiologique de septembre à décembre</li>
+<li>Par lutte mécanique (prélèvement et destruction manuelle des nids vides ou occupés)</li>
+<li>Par piégeage des chenilles (Eco piège disposé autour du tronc) de mi-décembre à fin mars</li>
+</ul>
+
+<p>Chaque technique de lutte doit être mise en place à des stades précis dans le cycle de vie de la chenille processionnaire du pin.</p>
+<p>Plusieurs techniques peuvent être combinées au cours d’une même année.</p>
+<p>Renseignements et devis sur simple demande via notre formulaire.</p>
+
+<h3>Retrait des nids</h3>
+<p>Même après plusieurs années et même vide de population, les nids d’hiver gardent leur caractère urticant. Il est dangereux de manipuler les nids occupés ou vides, cela nécessite un équipement de protection adapté.</p>
+<p>Stop-chenilles est avec vous tout le long de l’année dans cette lutte. Nous retirons les nids occupés ou vides en toute saison sur rendez-vous.</p>
+<p>Renseignements et devis sur simple demande via notre formulaire.</p>
+
 <h3>Que comprend le prix de l’intervention ?</h3>
-<p>Le prix comprend le déplacement, l'intervention et notre garantie (si besoin, nous revenons gratuitement jusqu’à l’élimination totale du nid).</p>
-<p>Quand cela est possible (accessibilité du nid), nous effectuons un second passage afin de récupérer le nid pour qu’il soit pris en charge dans une filière spécialisée.</p>
-		
-<h3>Notre tarif unique d'intervention</h3>
-<p>Stop-frelons propose un seul et unique tarif à 139 euros<sup>*</sup>, et ce, quel que soit la hauteur du nid, le jour du déplacement ou le temps passé.</p>
+<p>Le tarif de l’intervention comprend le déplacement, le traitement (produits, solutions, matériel, …), la surveillance et la garantie de notre intervention.</p>
+<p>Stop-chenilles propose un tarif par arbre qui est dégressif selon le nombre d’arbres à traiter.</p>
 		
 <p><sup>*</sup> TVA non applicable, art. 293 B du CGI.</p>
 
