@@ -9,13 +9,22 @@ menu: main
 weight : 4
 ---
 
-<h3>Vous avez découvert un nid chez vous ?</h3>
-<p>N'intervenez pas, si vous n'êtes pas équipé d'une tenue de protection adaptée vous risquez de vous faire piquer. Les piqûres de frelons asiatiques peuvent être mortelles.</p>
-<p>Pour éviter une attaque, restez à distance du nid (observez de loin sans prendre de risques).</p>
-<p>Situez le nid (hauteur, grosseur, activité) afin de renseigner au mieux notre technicien avant l'intervention.</p>
-<p>Si cela est possible, identifiez l'espèce à savoir frelons européens, frelons asiatiques ou guêpes.</p>
-<p>Rentrez vos animaux de compagnie qui peuvent eux aussi être piqués.</p>
-<h3>Que faire en cas de piqûre ? </h3>
-<p>Contactez immédiatement les secours.</p>
-<p>Les piqûres de frelons européens et asiatiques peuvent être mortelles. Selon l'emplacement de la piqûre, le délai d'intervention des secours doit être très rapide. Ne perdez pas de temps.</p>
+<p>Les chenilles processionnaires représentent un danger pour les enfants, les adultes, mais aussi les animaux domestiques. Les chenilles processionnaires fabriquent une toxine urticante appelée thaumétopoéine qui provoque des réactions allergiques qui peuvent entrainer des rougeurs, des éruptions cutanées, de la toux et des réactions allergiques pouvant aller jusqu’au choc anaphylactiques et à l’hospitalisation.<p>
+
+<p>Les chenilles processionnaires se déplacent en longue file indienne et construisent leurs nids blancs cotonneux dans les chênes ou les pins.</p>
+
+<p>Leurs poils urticants sont transportés par le vent et peuvent se déposer sur les fruits, les légumes, sur les vêtements ou sur du linge étendu.</p>
+
+<h3>Quelques conseils pratiques :</h3>
+
+<ul>
+    <li>Ne pas s’approcher et ne pas toucher les chenilles ou leur nid, en particulier pour les enfants</li>
+    <li>Ne pas se promener sous les arbres porteurs de nids,</li>
+    <li>Porter des vêtements longs en cas de promenade en forêt ou près d’arbres infestés,</li>
+    <li>Eviter de se frotter les yeux pendant ou au retour d’une balade,</li>
+    <li>Bien laver les fruits et les légumes de son jardin</li>
+    <li>Eviter de faire sécher le linge à côté d’arbres infestés.</li>
+</ul>
+
+<p>En cas de démangeaisons suite à une exposition aux chenilles, prendre une douche et changer de vêtements.</p>
 
