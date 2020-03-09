@@ -1,8 +1,7 @@
 ---
 title: Brochure INRA
 date: 2020-03-08T23:00:25.424Z
-description: >-
-  Le frelon asiatique a été classé espèce nuisible pour l’abeille domestique par
+description: Le frelon asiatique a été classé espèce nuisible pour l’abeille domestique par
   arrêté ministériel du 28 décembre 2012. Il est ainsi classé dans la liste des
   dangers sanitaires de deuxième catégorie pour l'abeille domestique Apis
   mellifera sur tout le territoire français.
