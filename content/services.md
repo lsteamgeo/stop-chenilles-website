@@ -20,12 +20,12 @@ weight : 2
 
 <p>Chaque technique de lutte doit être mise en place à des stades précis dans le cycle de vie de la chenille processionnaire du pin.</p>
 <p>Plusieurs techniques peuvent être combinées au cours d’une même année.</p>
-<p>Renseignements et devis sur simple demande via notre formulaire.</p>
+<p>Renseignements et devis sur simple demande via notre <a href="/contact/" title="formulaire de contact">formulaire.</a></p>
 
 <h3>Retrait des nids</h3>
 <p>Même après plusieurs années et même vide de population, les nids d’hiver gardent leur caractère urticant. Il est dangereux de manipuler les nids occupés ou vides, cela nécessite un équipement de protection adapté.</p>
 <p>Stop-chenilles est avec vous tout le long de l’année dans cette lutte. Nous retirons les nids occupés ou vides en toute saison sur rendez-vous.</p>
-<p>Renseignements et devis sur simple demande via notre formulaire.</p>
+<p>Renseignements et devis sur simple demande via notre <a href="/contact/" title="formulaire de contact">formulaire</a>.</p>
 
 <h3>Que comprend le prix de l’intervention ?</h3>
 <p>Le tarif de l’intervention comprend le déplacement, le traitement (produits, solutions, matériel, …), la surveillance et la garantie de notre intervention.</p>
