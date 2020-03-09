@@ -18,4 +18,4 @@ C'est lors de cette procession que les chenilles sont le plus à craindre car el
 
 Les chenilles se nourrissent des aiguilles des diverses variétés de pins ce qui provoque un affaiblissement des arbres.
 
-Brochure éditée par l’INRA : Les clés pour lutter contre la processionnaire du pin téléchargeable ici.
+Brochure éditée par l’INRA : Les clés pour lutter contre la processionnaire du pin
