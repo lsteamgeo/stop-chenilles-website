@@ -2,7 +2,7 @@
 title: "Intervention"
 title2: "Prise de rendez-vous avec un technicien pour une intervention."
 subtitle: ""
-subheading: "Stop-Chenilles vous propose un seul et unique tarif à 139 euros, et ce, quel que soit la hauteur du nid, le jour du déplacement ou le temps passé. Ce tarif comprend le déplacement, l'intervention et notre garantie."
+subheading: "Ce formulaire vous permet de nous contacter pour une demande de renseignements ou de devis. Vous recevrez une réponse très rapidement par mail ou par téléphone."
 description: "Service traitement des chenilles processionnaires"
 keywords: "Rendez-vous,intervention,chenilles processionnaires,alpes-maritimes,var,monaco."
 image: /images/uploads/photo-1481595357459-84468f6eeaac.jpg
@@ -14,4 +14,4 @@ shortDescription: "Intervention chenilles processionnaires"
 id: 1
 ---
 
-<h5 style="text-align:center;">Lors de la validation de votre demande, vous serez contacté(e) téléphoniquement pour fixer l'heure de l'intervention.</h5>
+<h5 style="text-align:center;">Lors de la validation de votre demande, vous serez contacté(e) téléphoniquement pour fixer une date d'intervention.</h5>
