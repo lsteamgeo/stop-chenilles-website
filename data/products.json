@@ -7,7 +7,7 @@
     "image": "/img/intervention_01.jpg",
     "cartImage": "/images/uploads/picto-intervention.gif",
     "url": "https://stop-chenilles.netlify.com",
-    "link": "/shop/intervention_pour_un_particulier/"
+    "link": "/shop/intervention/"
 
 },
 {
@@ -19,7 +19,7 @@
     "image": "/img/intervention_02.jpg",
     "cartImage": "/images/uploads/picto-intervention.gif",
     "url": "https://stop-chenilles.netlify.com",
-    "link": "/shop/intervention_pour_un_professionnel/"
+    "link": "/shop/intervention/"
 },
 {
     "id": "3",
@@ -30,5 +30,5 @@
     "image": "/img/intervention_03.jpg",
     "cartImage": "/images/uploads/picto-intervention.gif",
     "url": "https://stop-chenilles.netlify.com",
-    "link": "/shop/intervention_pour_une_administration/"
+    "link": "/shop/intervention/"
 }]
