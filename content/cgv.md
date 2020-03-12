@@ -18,13 +18,13 @@ draft: false
 
 <p>4 - Certaines interventions peuvent nécessité l'utilisation de matériel spécifique. Ces éléments extérieurs devront être fournis par le client.</p>
 
-<p>5 – Particularité : Les interventions de traitement de nids dans les cheminées ne comprennent pas l'enlèvement du nid. Il sera sous la responsabilité du client de faire appel à un ramoneur professionnel pour nettoyer le conduit une fois le traitement effectué avec a minima un délai de 7 jours écoulés.</p>
+<p>5 – Particularité : Le tarif par arbre est donné à titre indicatif pour un arbre de taille moyenne dans la catégorie des pins traités habituellement. Pour des dimensions d'arbres hors normes, un surplus sera demandé, et ce, pour chaque arbre traité.</p>
 
 <p>6 - Sauf stipulations contraires précisées dans notre offre, nos factures sont payables dès l’intervention effectuée par carte bancaire ou espèces. Aucun délai de paiement ne sera accordé.</p>
 
 <p>7 - Les tarifs de nos interventions sont indiqués en Euros toutes taxes comprises (TVA non applicable - article 293 B du CGI).</p>
 
-<p>8 – Dans le cas où un déplacement serait effectué sans qu’une intervention du technicien ne soit exécutée pour des raisons extérieures à notre société (absence de nid, erreur d’intervention, …), un forfait déplacement de 40 euros sera demandé pour couvrir les frais engagés.</p>
+<p>8 – Dans le cas où un déplacement serait effectué sans qu’une intervention du technicien ne soit exécutée pour des raisons extérieures à notre société, un forfait déplacement de 40 euros sera demandé pour couvrir les frais engagés.</p>
 
 <p>9 - Le défaut de paiement fait courir de plein droit des pénalités de retard calculées sur le taux directeur de la Banque Centrale Européenne, majorée de 7% jusqu’au paiement intégral des sommes dues.</p>
 
