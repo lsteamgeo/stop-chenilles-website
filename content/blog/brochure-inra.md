@@ -1,10 +1,10 @@
 ---
 title: Brochure INRA
-date: 2020-03-08T23:00:25.424Z
-description: Le frelon asiatique a été classé espèce nuisible pour l’abeille domestique par
-  arrêté ministériel du 28 décembre 2012. Il est ainsi classé dans la liste des
-  dangers sanitaires de deuxième catégorie pour l'abeille domestique Apis
-  mellifera sur tout le territoire français.
+date: 2020-03-11T23:00:25.424Z
+description: >-
+  Depuis la fin des années 1990, à cause d’hivers trop doux qui favorisent la
+  survie des populations, les larves de papillon sont de plus en plus nombreuses
+  en France.
 image: /images/uploads/logo_cnrs_inra.jpg
 ---
 Depuis la fin des années 1990, à cause d’hivers trop doux qui favorisent la survie des populations, les larves de papillon sont de plus en plus nombreuses en France.
