@@ -1,8 +1,9 @@
 ---
 title: "Services"
-title2: "Destruction des nids de frelons, de frelons asiatiques et de guêpes"
-description: "Intervention rapide dans les Alpes-Maritimes, le Var et Monaco pour une destruction des nids de frelons asiatiques, de frelons européens et de guêpes. Destruction rapide, toutes hauteurs."
-keywords: "nid de frelons,enlever nid frelons,frelons,frelons asiatiques,frelons européens,guêpes,traitement nids de frelons,CERTIBIOCIDE,CERTIPHYTO,alpes-maritimes,var,monaco."
+title2: "Traitement annuel ou saisonnier de lutte contre la chenille processionnaire du pin."
+description: "Traitement annuel ou saisonnier de lutte contre la chenille processionnaire du pin."
+keywords: "chenille processionnaire du pin, lutte chenilles, traitement, Eco pièges, lutte mécanique, pièges à chenilles, pièges à phéromone,
+  traitement microbiologiques, Piégeage des chenilles, Piégeage des papillons mâles, lutte biologique."
 date: 2019-02-18T19:36:10+01:00
 draft: false
 menu: main
