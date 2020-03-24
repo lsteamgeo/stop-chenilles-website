@@ -1,8 +1,9 @@
 ---
 title: "Conseils"
-title2: "Enlever un nid de frelons, de frelons asiatiques et de guêpes"
-description: "Intervention rapide pour enlever un nid de frelons asiatiques, de frelons européens et de guêpes. Destruction rapide, toutes hauteurs. Secteur Alpes-Maritimes, Var et Monaco."
-keywords: "nid de frelons,enlever nid frelons,frelons,frelons asiatiques,frelons européens,guêpes,traitement nids de frelons,alpes-maritimes,var,monaco."
+title2: "Conseils pratiques suite contact avec la chenille processionnaire du pin"
+description: "Traitement annuel ou saisonnier de lutte contre la chenille processionnaire du pin."
+keywords: "chenille processionnaire du pin, lutte chenilles, traitement, Eco pièges, lutte mécanique, pièges à chenilles, pièges à phéromone,
+  traitement microbiologiques, Piégeage des chenilles, Piégeage des papillons mâles, lutte biologique."
 date: 2019-02-18T19:36:10+01:00
 draft: false
 menu: main
